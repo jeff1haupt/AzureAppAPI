@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/1e53e397-32bd-4d3a-80d2-c3823b6a084d/resourceGroups/Applications/providers/Microsoft.Web/sites/cosb-cw-mowing-app"
+}
